@@ -1,0 +1,6 @@
+build/
+.idea/
+.expo/web/cache
+ios/
+android/
+node_modules/
